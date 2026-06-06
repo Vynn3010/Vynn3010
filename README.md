@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Celvyn Revaldo</h1>
-<h3 align="center">Computer Science Student | J&T Courier | Mobile Legends Player 🎮</h3>
+<h3 align="center">Computer Science Student | J&T Courier </h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=celvynrevaldo&label=Profile%20views&color=0e75b6&style=flat" alt="celvynrevaldo" />
 </p>
@@ -7,7 +7,7 @@
 
 🎓 Studying Computer Science at UNU Blitar
 📦 Working as a Part-Time Courier at J&T Express
-🎮 Mobile Legends player — currently at Immortal 110
+🌟 Rank Mobile Legends Immortal 110
 💻 I work with HTML, CSS, JavaScript, PHP, and Python
 📫 Feel free to reach me through my socials below!
 
