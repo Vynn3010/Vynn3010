@@ -5,11 +5,11 @@
 </p>
 
 
-🎓 Studying Computer Science at UNU Blitar
-📦 Working as a Part-Time Courier at J&T Express
-🌟 Rank Mobile Legends Immortal 110
-💻 I work with HTML, CSS, JavaScript, PHP, and Python
-📫 Feel free to reach me through my socials below!
+🎓 Studying Computer Science at UNU Blitar<br>
+📦 Working as a Part-Time Courier at J&T Express<br>
+🌟 Rank Mobile Legends Immortal 110<br>
+💻 I work with HTML, CSS, JavaScript, PHP, and Python<br>
+📫 Feel free to reach me through my socials below!<br>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -41,12 +41,4 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=celvynrevaldo&show_icons=true&locale=en&layout=compact" alt="celvynrevaldo" />
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=celvynrevaldo&show_icons=true&locale=en" alt="celvynrevaldo" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=celvynrevaldo&" alt="celvynrevaldo" />
-</p>
+
