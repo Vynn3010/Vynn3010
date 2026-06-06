@@ -14,10 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.instagram.com/celvyn.re?igsh=MWRpcm8xeGR4MTgyMw==" target="_blank"> <br>
+  <a href="https://www.instagram.com/celvyn.re?igsh=MWRpcm8xeGR4MTgyMw==" target="_blank"> 
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.facebook.com/share/17fSoECuBy/" target="_blank"> <br>
+  <a href="https://www.facebook.com/share/17fSoECuBy/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 </p>
