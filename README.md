@@ -24,7 +24,12 @@
 
 <h3 align="left">My Projects:</h3>
 <p align="left">
-  🌐 <a href="https://digital-wallets-v2.vercel.app/" target="_blank">Digital Wallet App</a>
+  🌐 <a href="https://digital-wallets-v2.vercel.app/" target="_blank">Digital WalletV2 App</a>
+</p>
+
+<h3 align="left">My Projects:</h3>
+<p align="left">
+  🌐 <a href="https://digital-wallets-v3.vercel.app/" target="_blank">Digital WalletV3 App</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
