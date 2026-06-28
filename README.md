@@ -35,7 +35,7 @@
   🌐 <a href="https://register-pasien.vercel.app/" target="_blank">Register Pasien App</a>
 </p>
 
-<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/f1f37712-5d96-4367-9eb0-ed95087e3e78" />
+<img width="200" height="200" alt="qrcode_368125528_3078bda37cbd7158488f65728ff6d0c1 (1)" src="https://github.com/user-attachments/assets/c92c5988-944b-48ae-8308-0acd7bbfd35a" />
 
 
 <h3 align="left">Languages and Tools:</h3>
