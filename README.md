@@ -27,9 +27,12 @@
   🌐 <a href="https://digital-wallets-v2.vercel.app/" target="_blank">Digital WalletV2 App</a>
 </p>
 
-<h3 align="left">My Projects:</h3>
 <p align="left">
   🌐 <a href="https://digital-wallets-v3.vercel.app/" target="_blank">Digital WalletV3 App</a>
+</p>
+
+<p align="left">
+  🌐 <a href="https://register-pasien.vercel.app/" target="_blank">Register Pasien App</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
